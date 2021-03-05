@@ -1,4 +1,10 @@
-# octave-crypto-scripts-general
+# [Octave Scripts (Crypto)](https://github.com/GabriOliv/octave-crypto-scripts-general)
+
+Some scripts of Cryptography Concepts compatible with GNU Octave.
+
+---
+
+[![GNU Octave](https://img.shields.io/badge/GNU%20Octave-5.2.0-blue)](https://www.gnu.org/software/octave/index)
 
 ### Usando os Scripts:
 
